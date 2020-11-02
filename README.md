@@ -1,6 +1,7 @@
 # multi-channel-fluorescence-microscopy
 Codes for a self-built  Multi-channel Fluorescence Microscopy with designed Low-cost Iillumination Module.
-Command lines for Arduino to control the two illumination systems (fluorescence excitation light and transmitted illumination light)  
+Command lines for Arduino to control the two illumination systems (fluorescence excitation light and transmitted illumination light) are shown below, which is also the initial interface shown in the Serial Monitor of Arduino software.  
+
 "Arduino is ready"    
 "-----------------------------------"  
 "Command List:"  
